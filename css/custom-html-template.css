@@ -1,0 +1,15 @@
+.headimg{
+	background-image: url(../imgs/h1.jpg);
+	background-size: cover;
+/*	background-attachment: fixed; */
+	height:400px;
+	background-position: fixed;
+}
+.bacc{
+	background-color:#e8eb34;
+	height:30px;
+}
+.card-body{
+	background-color:#e8eb34;
+
+}
